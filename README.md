@@ -20,5 +20,3 @@
 ## 協力者
 
 デプロイ： [@Bob-Fu](https://github.com/Bob-FU)
-
-Daily Report about patients' level in Japan has been updated. dalaoshi
